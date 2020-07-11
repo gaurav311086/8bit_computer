@@ -1,4 +1,5 @@
 *.swp
 *.pyc
 hier/*.out
+*.rdm
 
